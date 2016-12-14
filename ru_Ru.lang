@@ -185,199 +185,197 @@ msg.cKeyStoneType0.txt=Вечное Активирование (Тратит К�
 msg.cKeyStoneType1.txt=Кнопочное Активирование
 msg.cKeyStoneType2.txt=Переключаемое Активированте
 msg.cKeyStoneType3.txt=Кнопочное Активирование (Тратит Ключ)
-msg.draconiumChestEditmode.txt=Colour edit mode =
-msg.draconiumChestRed.txt=Red =
-msg.draconiumChestGreen.txt=Green =
-msg.draconiumChestBlue.txt=Blue =
-msg.draconiumChestEditL1.txt=Right click with red green or blue dye to adjust the colour
-msg.draconiumChestEditL2.txt=Click the top half of the chest to increase the value
-msg.draconiumChestEditL3.txt=Or the bottom half of the chest to decrease the value
-msg.draconiumChestEditL4.txt=Right click with paper to copy the colour to other chests
-msg.draconiumChestEdit2.txt=Please use a single peace of paper
-msg.de.dragonDeath.txt=§5The heart is temporarily awakened by the dragons explosive §5death
+msg.draconiumChestEditmode.txt=Режим выбора цвета =
+msg.draconiumChestRed.txt=Красный =
+msg.draconiumChestGreen.txt=Зеленый =
+msg.draconiumChestBlue.txt=Синий =
+msg.draconiumChestEditL1.txt=Правый клик с красным, зеленым или синим красителем чтобы настроить увет
+msg.draconiumChestEditL2.txt=Кликните по верхней половине сундука чтобы увеличить значение
+msg.draconiumChestEditL3.txt=Или нижнюю половину чтобы уменьшить значение
+msg.draconiumChestEditL4.txt=Правый клик с бумагой чтобы копировать цвет для других сундуков
+msg.draconiumChestEdit2.txt=Используйте только одну бумагу
+msg.de.dragonDeath.txt=§5Сердце временно пробуждено смертью Дракона
 msg.de.baseSafeAOW.txt=§9(§aAOE §aSafe §aMode §ais §aenabled§9) §cOperation §cCanceled §cbecause §ca §ctile §centity §cwas §cdetected
-msg.de.guardianAttackBlocked.txt=Your attack is blocked by the guardians crystals!
-msg.de.shieldDepleted.txt=Warning Critical Damage!!!
-msg.de.shockWaveForEnergyBoltsOnly.txt=Shock Wave is only possible with Arrow of Draconic Fire
-msg.de.explosiveNotForEnergyBolts.txt=Explosive is not possible with Arrow of Draconic Fire
-msg.de.insufficientPowerToFire.txt=Insufficient Power to Fire
-msg.de.outOfArrows.txt=Out of Arrows!!!
-msg.de.coreNotFound.txt=[Error: 404] Core Not Found!
-msg.de.notRaining.txt=Its not currently raining!
-msg.de.alreadyRaining.txt=Its already raining!
-msg.de.alreadyStorm.txt=Its already thundering!
-msg.de.insufficientPower.txt=Insufficient Power!
-msg.de.alreadyRunning.txt=Already Running!
+msg.de.guardianAttackBlocked.txt=Твоя атака заблокирована Кристалом Защитника!
+msg.de.shieldDepleted.txt=Осторожно, Критический Урон!!!!
+msg.de.shockWaveForEnergyBoltsOnly.txt=Шоковая волна доступна только со Стрелой Дракониевого Пламени
+msg.de.explosiveNotForEnergyBolts.txt=Взрываемость недоступна со Стрелой Дракониевого Пламенм
+msg.de.insufficientPowerToFire.txt=Недостаточно Силы для Огня
+msg.de.outOfArrows.txt=Нет Стрел!!!
+msg.de.coreNotFound.txt=[Error: 404] Ядро не найдено!
+msg.de.notRaining.txt=Сейчас не идет дождь
+msg.de.alreadyRaining.txt=Дождь уже идет!
+msg.de.alreadyStorm.txt=На улице уже гроза!
+msg.de.insufficientPower.txt=Недостаточно Силы!
+msg.de.alreadyRunning.txt=Уже запущено!
 
 //Reactor
-msg.de.reactorRSMode.0.txt=Comparator Mode: Temperature
-msg.de.reactorRSMode.1.txt=Comparator Mode: Temperature [Inverted]
-msg.de.reactorRSMode.2.txt=Comparator Mode: Containment Field
-msg.de.reactorRSMode.3.txt=Comparator Mode: Containment Field [Inverted]
-msg.de.reactorRSMode.4.txt=Comparator Mode: Energy Saturation
-msg.de.reactorRSMode.5.txt=Comparator Mode: Energy Saturation [Inverted]
-msg.de.reactorRSMode.6.txt=Comparator Mode: Fuel Conversion
-msg.de.reactorRSMode.7.txt=Comparator Mode: Fuel Conversion [Inverted]
+msg.de.reactorRSMode.0.txt=Comparator Mode: Температура
+msg.de.reactorRSMode.1.txt=Comparator Mode: Температура [Инверсия]
+msg.de.reactorRSMode.2.txt=Comparator Mode: Хранилище
+msg.de.reactorRSMode.3.txt=Comparator Mode: Хранилище [Инверсия]
+msg.de.reactorRSMode.4.txt=Comparator Mode: Потребление Энергии
+msg.de.reactorRSMode.5.txt=Comparator Mode: Потребление Энергии  [Инверсия]
+msg.de.reactorRSMode.6.txt=Comparator Mode: Переработка Топлива
+msg.de.reactorRSMode.7.txt=Comparator Mode: Переработка Топлива  [Inverted]
 
 //Tool Tips/other localizations ----------------------------------------------------------------------------------------------------------------------------------------
-info.teleporterInfUnset1.txt=Unbound
-info.teleporterInfUnset2.txt=Shift right click to bind your current
-info.teleporterInfUnset3.txt=x, y, z coordinates
-info.teleporterInfUnset4.txt=As well as the direction you are facing
-info.teleporterInfUnset5.txt=And the dimension you are currently in
-info.teleporterInfDest.txt=Destination
-info.teleporterInfFuel.txt=Fuel:
-info.teleporterInfSet1.txt=Bound to
-info.teleporterInfSet2.txt=Uses remaining
-info.de.rightClickToTeleport.txt=Right click to teleport
-info.de.draconiumBlockCapacitorCharge.txt=Hold item and sneak to charge from capacitor.
-info.creativeCapacitor.txt=Can source or sink
+info.teleporterInfUnset1.txt=Не установлено
+info.teleporterInfUnset2.txt=Shift + Правый Клик чтобы установить текущие
+info.teleporterInfUnset3.txt=x, y, z координаты
+info.teleporterInfUnset4.txt=Вместе с направлением вашего взгляда
+info.teleporterInfUnset5.txt=И измерением в котором вы находитесь
+info.teleporterInfDest.txt=Пункт Назначения
+info.teleporterInfFuel.txt=Топливо:
+info.teleporterInfSet1.txt=Установлено на 
+info.teleporterInfSet2.txt=Использований осталось
+info.de.rightClickToTeleport.txt=Правый Клик для телепорта
+info.de.draconiumBlockCapacitorCharge.txt=Держите предмет и присядьте чтобы зарядиться от конденсатора
+info.creativeCapacitor.txt=Канистра или шелк
 
-info.draconicAxe1.txt=Timber!!!!!!
-info.draconicAxe2.txt=Will fall an entire tree
-info.draconicAxe3.txt=or break out a 5x5x5 chunk of anything wood.
-info.draconicAxe4.txt=Hold shift to mine a single block.
+info.draconicAxe1.txt=Лесоруб!!!!!!
+info.draconicAxe2.txt=Срубит все дерево
+info.draconicAxe3.txt=или добудет все дерево в области 5x5x5 .
+info.draconicAxe4.txt=В присяде добывается только один блок.
 
-info.draconicCore.txt=The core crafting component for Draconic Evolution
-info.draconicCore1.txt=Can be used to stabilize mob spawners
+info.draconicCore.txt=Создавательный компонент ядра для Draconic Evolution
+info.draconicCore1.txt=Может быть использовано для стабилизации спаунеров мобов.
 
-info.mobSoul1.txt=Can be used on a stabilized spawner to set the type
-info.mobSoul2.txt=Or shift right click to spawn a mob
-info.mobSoul3.txt=(Single Use)
+info.mobSoul1.txt=Может быть использована на стабилизированном спаунере чтобы менять тип
+info.mobSoul2.txt=Или Shift + Правый Клик чтоб призвать моба
+info.mobSoul3.txt=(Одно использование)
 
-info.arrowInfo.txt=A Painful Ride
-info.arrowInfo0.txt=Too heavy for a regular bow
+info.arrowInfo.txt=Болезненное протыкание!
+info.arrowInfo0.txt=Слишком тяжелая для простого лука
 
-info.de.obliterationMode.txt=Obliteration Mode
-info.de.obliterationModetrue.txt=Active
-info.de.obliterationModefalse.txt=Inactive
-info.de.miningMode.txt=Mining Mode
-info.de.changeMiningMode.txt=Shift Right click to change mining mode
-info.de.toggleOblit.txt=Right-click to toggle Obliteration mode
-info.de.oblitInfo.txt=Obliteration mode destroys low value blocks
-info.de.attackDamage.txt=Attack Damage
-info.de.bonusHealthDamage.txt=Mob Health
-info.de.press.txt=Press
-info.de.toOpenConfigGUI.txt=To open config GUI
-info.de.shiftToPause.txt=Hold shift to pause slide
-info.de.power.txt=Power
+info.de.obliterationMode.txt=Режим Разрушения
+info.de.obliterationModetrue.txt=Активен
+info.de.obliterationModefalse.txt=Неактивен
+info.de.miningMode.txt=Режим Добычи
+info.de.changeMiningMode.txt=Shift + Правый Клик чтобы смениь режим добычи
+info.de.toggleOblit.txt=Правый Клик чтобы переключить Режим Разрушенич
+info.de.oblitInfo.txt=Режим Разрушения уничтожает неценные блоки.
+info.de.attackDamage.txt=Урон
+info.de.bonusHealthDamage.txt=Жизни Моба
+info.de.press.txt=Нажмитп
+info.de.toOpenConfigGUI.txt=Чтобы открыть меню конфигурации
+info.de.shiftToPause.txt=Держите Shift чтобы остановиться на слайде
+info.de.power.txt=Сила
 
-info.de.sword.txt=Your enemy's strength makes this blade stronger!
+info.de.sword.txt=Сила ваших врагов делает меч сильнее!
 
-info.de.safetyMatch.txt=Light a fire that will NOT burn your house down!
+info.de.safetyMatch.txt=Разожгите огонь который не сожжет ваш дом!
 
-info.draconiumChestInfo1.txt=Shift right click with an empty hand
-info.draconiumChestInfo2.txt=to access colour options
+info.draconiumChestInfo1.txt=Shift + Правый Клип
+info.draconiumChestInfo2.txt=чтобы получить доступ к настройкам цвета.
 
-info.de.capacitorMode.txt=Mode
-info.de.capacitorMode0.txt=Inactive
-info.de.capacitorMode1.txt=Charge Armor
-info.de.capacitorMode2.txt=Charge Held Items
-info.de.capacitorMode3.txt=Charge Armor & Held Items
-info.de.changwMode.txt=Shift Right click to change mode
+info.de.capacitorMode.txt=Режим
+info.de.capacitorMode0.txt=Неактивен
+info.de.capacitorMode1.txt=Заряжать Броню
+info.de.capacitorMode2.txt=Заряжать Предметв в руке
+info.de.capacitorMode3.txt=Заряжать Броню и Предметы в руке
+info.de.changwMode.txt=Shift + Правый Клик чтобы сменить режим
 
-info.de.toolInventoryOblit.txt=Junk filter & Enchants
-info.de.toolInventoryEnch.txt=Enchants
+info.de.toolInventoryOblit.txt=Фильтр мусора и Зачарования
+info.de.toolInventoryEnch.txt=Зачарования
 
-info.de.hudDisplayConfigTxt1.txt=#### HUD Display ####
-info.de.hudDisplayConfigTxt2.txt=Click and drag to move
+info.de.hudDisplayConfigTxt1.txt=#### HUD Дисплей ####
+info.de.hudDisplayConfigTxt2.txt=Нажмите и держите чтобы перемещать
 info.de.hudDisplayConfigTxt3.txt=###################
-info.de.hudDisplayConfigInfo1.txt=Click and drag HUD
-info.de.hudDisplayConfigInfo2.txt=to change location
+info.de.hudDisplayConfigInfo1.txt=Нажмите и держите HUD
+info.de.hudDisplayConfigInfo2.txt=Чтобы перемещать его.
 
 
-info.de.manual.introTxt.txt=Everything you need to know. All in one place.
-info.de.manual.indexButton.txt=Index
-info.de.manual.indexButtonTip.txt=Go to index page
-info.de.manual.contributors.txt=Draconic Evolution Contributors
-info.de.manual.name.txt=Name
-info.de.manual.contribution.txt=Contribution
-info.de.manual.clickToGoToSite.txt=(Click name to open website)
-info.de.manual.contributorsButton.txt=Contributors
-info.de.manual.contributorsButtonInfo.txt=A list of people who have contributed to Draconic Evolution
-info.de.shiftRightClickToActivate.txt=Shift-Right click to activate.
-info.de.blockRange.txt=Block Range.
-info.de.hasSavedData.txt=Contents Saved!
-info.de.energyBuffer.txt=Energy Buffer
+info.de.manual.introTxt.txt=Все что тебе нужно знать. Все в одном.
+info.de.manual.indexButton.txt=Индекс
+info.de.manual.indexButtonTip.txt=Перейти на страницу с индексом
+info.de.manual.contributors.txt=Draconic Evolution Участники:
+info.de.manual.name.txt=Имя
+info.de.manual.contribution.txt=Участип
+info.de.manual.clickToGoToSite.txt=(Кликните по имени чтобы перейти на сайт)
+info.de.manual.contributorsButton.txt=Участники
+info.de.manual.contributorsButtonInfo.txt=Список участников разработки Draconic Evolution
+info.de.shiftRightClickToActivate.txt=Shift + Правый Клик для активации.
+info.de.blockRange.txt=Дальность Блока.
+info.de.hasSavedData.txt=Данные сохранены!
+info.de.energyBuffer.txt=Буфер Энергии
 
-info.de.manual.nav1.txt=Navigation Tips
-info.de.manual.nav2.txt=Press Backspace to go to the previous page.
-info.de.manual.nav3.txt=Hold shift to scroll faster.
+info.de.manual.nav1.txt=Подсказки
+info.de.manual.nav2.txt=Нажмите Backspace чтобы вернуться на предыдущюю страницу.
+info.de.manual.nav3.txt=Держите Shift чтобы промотать быстрее.
 
 //Energy Net
-info.de.modeIn.txt=Mode: Input
-info.de.modeOut.txt=Mode: Output
-info.de.5xTransfer.txt= (5x Transfer)
-info.de.connections.txt=Connections
-info.de.wirelessConnections.txt=Wireless Connections
+info.de.modeIn.txt=Mode: Вход
+info.de.modeOut.txt=Mode: Выход
+info.de.5xTransfer.txt= (5x Обмен)
+info.de.connections.txt=Подключения
+info.de.wirelessConnections.txt=Беспроводные Подключения
+info.infusedObsidian.txt=Данный блок невосприимчив к иссушению.
 
-
-info.infusedObsidian.txt=This block is wither resistant
-
-enchantment.draconicevolution.reaperEnchant=Reaper
+enchantment.draconicevolution.reaperEnchant=Жнец
 
 //Achievements ----------------------------------------------------------------------------------------------------------------------------------------
 draconicevolution.achievementPage.name=Draconic Evolution
 
-achievement.draconicevolution.dust=The Start of something BIG!
-achievement.draconicevolution.dust.desc=Collect Draconium dust
-achievement.draconicevolution.ingot=Better than Diamond!
-achievement.draconicevolution.ingot.desc=Smelt a Draconium Dust into a Draconium Ingot
-achievement.draconicevolution.core=This is where it begins
-achievement.draconicevolution.core.desc=Craft a Draconic Core
-achievement.draconicevolution.core2=Not Good Enough!
-achievement.draconicevolution.core2.desc=Upgrade Draconic Core to Wyvern
+achievement.draconicevolution.dust=Начало чего-то БОЛЬШОГО!
+achievement.draconicevolution.dust.desc=Найдите Дракониумную пыль
+achievement.draconicevolution.ingot=Лучше Алмазов!
+achievement.draconicevolution.ingot.desc=Сплавьте Дракониумную пыль в слиток
+achievement.draconicevolution.core=Там, где все начинается
+achievement.draconicevolution.core.desc=Создайте Дракониевое Ядро!
+achievement.draconicevolution.core2=Недостаточно Хорошо!
+achievement.draconicevolution.core2.desc=Улучшите Дракониевое ядро до Вивернового
 
-achievement.draconicevolution.dislocator=Endermen got nothin’
-achievement.draconicevolution.dislocator.desc=Create a dislocator
-achievement.draconicevolution.chest=Never enough Storage!
-achievement.draconicevolution.chest.desc=Craft a Draconic Chest
-achievement.draconicevolution.particles=OOOOH Sparkles!
-achievement.draconicevolution.particles.desc=Create a particle generator
-achievement.draconicevolution.weather=Who Needs Mother Nature
-achievement.draconicevolution.weather.desc=Craft a weather controller
-achievement.draconicevolution.dissenchanter=Only What I Want!
-achievement.draconicevolution.dissenchanter.desc=Create a disenchanter.
-achievement.draconicevolution.ecore=It keeps going, and going, and going
-achievement.draconicevolution.ecore.desc=Build the Energy Core
-achievement.draconicevolution.wpick=Nothing like Diamond
-achievement.draconicevolution.wpick.desc=Upgrade to a wyvern pick
-achievement.draconicevolution.wshovel=Pro Digger!
-achievement.draconicevolution.wshovel.desc=Craft a Wyvern shovel
-achievement.draconicevolution.wsword=Better Weaponry
-achievement.draconicevolution.wsword.desc=Craft a Wyvern sword
-achievement.draconicevolution.wbow=Snipers at the Ready!
-achievement.draconicevolution.wbow.desc=Craft the Wyvern Bow
-achievement.draconicevolution.whelm=Free Breathing!
-achievement.draconicevolution.whelm.desc=Craft the Wyvern Helm
-achievement.draconicevolution.wchest=High Resistance
-achievement.draconicevolution.wchest.desc=Craft a Wyvern Chestplate
-achievement.draconicevolution.wleggs=Run like the wind
-achievement.draconicevolution.wleggs.desc=Craft Wyvern leggings
-achievement.draconicevolution.wboots=Feather Fall
-achievement.draconicevolution.wboots.desc=Craft Wyvern boots
-achievement.draconicevolution.resurrection=Brimming with Antici-pation!
-achievement.draconicevolution.resurrection.desc=Craft the Resurrection Stone
-achievement.draconicevolution.dislocator2=Ender-ruler!
-achievement.draconicevolution.dislocator2.desc=Craft the Advanced Dislocator
+achievement.draconicevolution.dislocator=Странник ничего не получит
+achievement.draconicevolution.dislocator.desc=Создайте Дислокатор
+achievement.draconicevolution.chest=Лололошке всегда мало!
+achievement.draconicevolution.chest.desc=Создайте Дракониевый сундук
+achievement.draconicevolution.particles=УУУУУУУ, Блестяшки!
+achievement.draconicevolution.particles.desc=Создайте Генератор частиц
+achievement.draconicevolution.weather=Да кому нужна эта Природа?!
+achievement.draconicevolution.weather.desc=Создайте Контроллер погоды
+achievement.draconicevolution.dissenchanter=Только то что мне нужно!
+achievement.draconicevolution.dissenchanter.desc=Создайте Раззачарователь
+achievement.draconicevolution.ecore=Вперед и только вперед!
+achievement.draconicevolution.ecore.desc=Постройте Энергетическое Ядро
+achievement.draconicevolution.wpick=И не нужно алмазных?!
+achievement.draconicevolution.wpick.desc=Улучшитесь до Виверновой кирки
+achievement.draconicevolution.wshovel=Топ-Копатель!
+achievement.draconicevolution.wshovel.desc=Создайте Виверновую лопату
+achievement.draconicevolution.wsword=Еще лучше в бою!
+achievement.draconicevolution.wsword.desc=Создайте Виверновый меч
+achievement.draconicevolution.wbow=Снайпер на готове!
+achievement.draconicevolution.wbow.desc=Создайте Виверновый лук
+achievement.draconicevolution.whelm=Свободно дышащий!
+achievement.draconicevolution.whelm.desc=Создайте Виверновый шлем
+achievement.draconicevolution.wchest=Прочно защищен!
+achievement.draconicevolution.wchest.desc=Создайте Виверновый нагрудник
+achievement.draconicevolution.wleggs=Несись как ветер!
+achievement.draconicevolution.wleggs.desc=Создайте Виверновые штанишки
+achievement.draconicevolution.wboots=Падать уже не так больно!
+achievement.draconicevolution.wboots.desc=Создайте Виверновые ботинки
+achievement.draconicevolution.resurrection=Поспорь с судьбой!
+achievement.draconicevolution.resurrection.desc=Создайте Камень Возрождения
+achievement.draconicevolution.dislocator2=Круче Странников!
+achievement.draconicevolution.dislocator2.desc=Создайте Продвинутый Дислокатор
 achievement.draconicevolution.flux=1.21 jiggawatts!
-achievement.draconicevolution.flux.desc=Craft the Wyvern Flux Capacitor
+achievement.draconicevolution.flux.desc=Создайте Виверновый потоковый конденсатор
 
-achievement.draconicevolution.heart=Heart of the Dragon!
-achievement.draconicevolution.heart.desc=Kill a Dragon and claim it’s heart.
-achievement.draconicevolution.awakenedblock=It’s all in the ritual!
-achievement.draconicevolution.awakenedblock.desc=Create Awakened Draconium
-achievement.draconicevolution.core3=Expense vs. Power
-achievement.draconicevolution.core3.desc=Upgrade Wyvern Core to Awakened
+achievement.draconicevolution.heart=Сердце Дракона!
+achievement.draconicevolution.heart.desc=Убейте Дракона и заберите его сердце
+achievement.draconicevolution.awakenedblock=Все дело в ритуале!
+achievement.draconicevolution.awakenedblock.desc=Создайте Пробужденный дракониум
+achievement.draconicevolution.core3=Несравнимая сила!
+achievement.draconicevolution.core3.desc=Улучшите Виверновое ядро до Пробужденного
 
-achievement.draconicevolution.dhelm=Gliding through water!
-achievement.draconicevolution.dhelm.desc=Upgrade to the Draconic Helm
-achievement.draconicevolution.dChest=Fly like an eagle!
-achievement.draconicevolution.dChest.desc=Craft the Draconic Chest Plate
-achievement.draconicevolution.dleggs=Dance like a Butterfly!
-achievement.draconicevolution.dleggs.desc=Craft Draconic Leggings
-achievement.draconicevolution.dboots=Higher and Higher!
-achievement.draconicevolution.dboots.desc=Upgrade to Draconic Boots.
+achievement.draconicevolution.dhelm=Лети сквозь волны!
+achievement.draconicevolution.dhelm.desc=Улучшитесь до Дракониевого шлема
+achievement.draconicevolution.dChest=Как орел в небе!
+achievement.draconicevolution.dChest.desc=Создайте Дракониевый нагрудник
+achievement.draconicevolution.dleggs=Танцуй как бабочка!
+achievement.draconicevolution.dleggs.desc=Создайте Дракониевые штаны
+achievement.draconicevolution.dboots=Все выше и выше!
+achievement.draconicevolution.dboots.desc=Улучшитесь до Дракониевых ботинков
 
 achievement.draconicevolution.dpick=Mine With Authority!
 achievement.draconicevolution.dpick.desc=Craft a Draconic Pick
